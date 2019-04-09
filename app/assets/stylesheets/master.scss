@@ -8,6 +8,31 @@
 .navbar-inverse a.navbar-brand {
   font-family: "Helvetica Neue", Helvetica;
   font-weight: 100;
-  color: white;
+  color: #DE2B1F;
 }
 
+.grapes {
+  background: image_url('grapes.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 500px;
+  box-shadow: 0px 3px 8px #2a2a2a;
+}
+h1 {
+color: #DE2B1F;
+}
+h1, h2, h3, h4, h5, h6, .navbar {
+  margin: 0;
+}
+.page h1 {
+  font-family: "Helvetica Neue", Helvetica;
+  font-weight: 300;
+  text-shadow: rgba(0, 0, 0, 0.95) 1px 1px;
+}
+.page h2 {
+  font-family: "Helvetica Neue", Helvetica;
+  font-weight: 200;
+  text-shadow: rgba(0, 0, 0, 0.95) 1px 1px;
+}
